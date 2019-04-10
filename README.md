@@ -4,7 +4,7 @@
 A Vue.js project
 
 # install dependencies
-npm install
+cnpm install
 
 # serve with hot reload at localhost:8081
 npm run dev
